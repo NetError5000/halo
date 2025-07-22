@@ -1,3 +1,4 @@
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 <p align="center">
     <a href="https://www.halo.run" target="_blank" rel="noopener noreferrer">
         <img width="100" src="https://www.halo.run/logo" alt="Halo logo" />
